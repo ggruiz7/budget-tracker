@@ -10,9 +10,15 @@ A quick and easy way for users to keep track of their spending, even when they'r
 - [Installation](#installation)
 - [Usage](#usage)
 - [Credits](#credits)
+- [Technology](#technology)
 - [License](#license)
+- [Badges](#badges)
 
 ## Features
+
+- Online/Offline functionality.
+- Users can input an expense or deposit, and receive a notification that they have added an expense or deposit
+- When a user reestablishes an internet connection, the deposits or expenses added while they were offline are added to their transaction history and their totals are updated.
 
 ## Installation
 
@@ -30,9 +36,13 @@ This is the live deployment!
 
 ## Technology
 
+![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
 ## License
 
 MIT License
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) [2022] [Gabriel]
 
@@ -56,6 +66,7 @@ SOFTWARE.
 
 ## Badges
 
-![badmath](https://img.shields.io/github/languages/top/lernantino/badmath)
-
-Badges aren't necessary, per se, but they demonstrate street cred. Badges let other developers know that you know what you're doing. Check out the badges hosted by [shields.io](https://shields.io/). You may not understand what they all represent now, but you will in time.
+[![GitHub issues](https://img.shields.io/github/issues/ggruiz7/budget-tracker)](https://github.com/ggruiz7/budget-tracker/issues)
+[![GitHub forks](https://img.shields.io/github/forks/ggruiz7/budget-tracker)](https://github.com/ggruiz7/budget-tracker/network)
+[![GitHub forks](https://img.shields.io/github/forks/ggruiz7/budget-tracker)](https://github.com/ggruiz7/budget-tracker/network)
+[![Twitter](https://img.shields.io/twitter/url?style=social)](https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fggruiz7%2Fbudget-tracker)
