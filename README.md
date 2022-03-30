@@ -26,7 +26,7 @@ No installation necessary. The app is deployed live using Heroku and MongoDB Atl
 
 ## Usage
 
-`https://mysterious-lake-24109.herokuapp.com/`
+https://mysterious-lake-24109.herokuapp.com/
 
 This is the live deployment!
 
