@@ -45,7 +45,7 @@
   ],
   "theme_color": "#E82B02",
   "background_color": "#290159",
-  "start_url": "/",
+  "start_url": "index.html",
   "display": "standalone",
   "orientation": "portrait",
   "description": "An app to help you track your budget."
